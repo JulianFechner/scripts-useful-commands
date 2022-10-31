@@ -34,9 +34,11 @@ def main():
         print("Week 4: " + week4)
 
         overall = float(week1) + float(week2) + float(week3) + float(week4)
-        print("Overall: " + str(overall) + ".") # Gives out the entered values.
+	# Gives out the entered values.
+        print("Overall: " + str(overall) + ".")
 
-        print("Are the entered values correct?") # Let's a user check for mistakes.
+	# Let's a user check for mistakes.
+        print("Are the entered values correct?")
         answer = str(input("y/n: "))
 
         if answer == "y":
