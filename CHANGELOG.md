@@ -7,4 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Languages: English
 
-## [1.0.0] - 
+## [1.0.0] - 20221031
+
+- Initial commit
+- Added scripts: practice-exams.py, overtime.py
