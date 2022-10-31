@@ -21,7 +21,7 @@ def main():
 					f.write("B" + str(x) + "\n\n\n")
 				elif files[i] == files[2]:
 					f.write("C" + str(x) + "\n\n\n")
-			f.write("x/90 + "\n" + "ca. x%")
+			f.write("x/90\nca. x%")
 
 if __name__ == '__main__':
 	main()
