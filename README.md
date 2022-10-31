@@ -3,7 +3,7 @@
 A collection of scripts, very much a WIP.
 
 ## practice-exams.py
-Adds files for going through Professor Messer's practice exams.
+Adds files for going through [Professor Messer's](https://www.professormesser.com/) practice exams.
 
 ## overtime.py
 Used for calculating worked overtime.
