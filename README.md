@@ -2,7 +2,7 @@
 
 A collection of scripts, very much a WIP.
 
-## ufw-rules.sh
+## ufw-box-rule.sh
 I use this script for a ufw firewall rule on HTB/THM boxes.
 
 ## practice-exams.py
