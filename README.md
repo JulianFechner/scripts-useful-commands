@@ -2,14 +2,14 @@
 
 A collection of scripts, very much a WIP.
 
+## ufw-rules.sh
+I use this script for a ufw firewall rule on HTB/THM boxes.
+
 ## practice-exams.py
 Adds files for going through [Professor Messer's](https://www.professormesser.com/) practice exams.
 
 ## overtime.py
 Used for calculating worked overtime.
-
-## nmap-default.sh
-Run a Nmap scan, defaulted to in many scenarios.
 
 ## snippets-python.json
 Collection of Python snippets, used in VS Code.
