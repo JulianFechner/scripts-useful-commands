@@ -14,4 +14,7 @@ Used for calculating worked overtime.
 ## snippets-python.json
 Collection of Python snippets, used in VS Code.
 
-This project is on [GitHub](https://github.com/JulianFechner/scripts).
+## useful-commands.md
+Collection of some useful commands, mainly targeted at CTFs/other engagements.
+
+This project is on [GitHub](https://github.com/JulianFechner/scripts-useful-commands).
