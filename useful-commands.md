@@ -10,6 +10,8 @@
       - start FTP server in current directory
     - `wget http://victim-IP/path/to/file`
       - download file from victim
+  - loop through array and execute command on elements inside
+    - `for i in "${array[@]}"; do <command> "$i"; done`
 
 ## Windows
 
