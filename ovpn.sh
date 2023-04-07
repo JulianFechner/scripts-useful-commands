@@ -9,10 +9,10 @@ options="Usage: ovpn.sh [OPTIONS]
 
 if [[ $@ == "--thm" ]]
 then
-    openvpn --config "/home/kali/Desktop/vpn/thm/N30n.ovpn"
+    openvpn --config "/home/kali/Documents/vpn/thm/N30n.ovpn"
 elif [[ $@ == "--htb" ]]
 then
-    openvpn --config "/home/kali/Desktop/vpn/htb/udp/lab_xn30n_vip+_eu-2.ovpn"
+    openvpn --config "/home/kali/Documents/vpn/htb/xn30n.ovpn"
 else
     # Removes unnessecary indentation
     sed 's/^[[:space:]]*//' <<< "$options"
