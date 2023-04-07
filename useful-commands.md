@@ -21,3 +21,4 @@
       - download file to victim
     - `ftp attacker-IP`
       - connect to FTP server, to download/upload files
+      - use anonymous login
