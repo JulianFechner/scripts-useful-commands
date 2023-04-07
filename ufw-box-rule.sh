@@ -10,8 +10,9 @@ ufw status numbered
 
 read -p "Would you like to delete the old rule (y/n):" ans
 
-if ans==y || ans==Y; then
-yes | ufw delete 1
+if ans==y || ans==Y
+then
+  yes | ufw delete 1
 fi
 
 ufw allow from $IP to any
