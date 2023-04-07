@@ -2,8 +2,11 @@
 
 A collection of scripts and useful commands, very much a WIP.
 
+# ovpn.sh
+Connect to HTB/THM network, through OVPN with supplied profile.
+
 ## ufw-box-rule.sh
-I use this script for a ufw firewall rule on HTB/THM boxes.
+Used for ufw firewall rule on HTB/THM network, for connecting to boxes.
 
 ## practice-exams.py
 Adds files for going through [Professor Messer's](https://www.professormesser.com/) practice exams.
