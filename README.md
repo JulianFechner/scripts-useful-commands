@@ -2,7 +2,7 @@
 
 A collection of scripts and useful commands, very much a WIP.
 
-# ovpn.sh
+## ovpn.sh
 Connect to HTB/THM network, through OVPN with supplied profile.
 
 ## ufw-box-rule.sh
