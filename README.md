@@ -11,9 +11,6 @@ Used for ufw firewall rule on HTB/THM network, for connecting to boxes.
 ## practice-exams.py
 Adds files for going through [Professor Messer's](https://www.professormesser.com/) practice exams.
 
-## overtime.py
-Used for calculating worked overtime.
-
 ## snippets-python.json
 Collection of Python snippets, used in VS Code.
 
