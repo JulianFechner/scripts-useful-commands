@@ -14,6 +14,9 @@ Adds files for going through [Professor Messer's](https://www.professormesser.co
 ## snippets-python.json
 Collection of Python snippets, used in VS Code.
 
+## openvpn-mtu-fix
+Fixes problem with OVPN, for me on HTB (shell uploads). Makes MTU changes permanent (put in `/etc/network/if-up.d/tun0-mtu`, make executable with `chmod a+x /etc/network/if-up.d/tun0-mtu`). Requires more testing.
+
 ## useful-commands.md
 Collection of some useful commands, mainly focusing on CTFs/other engagements.
 
