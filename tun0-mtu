@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Copyright (c) 2023 Julian Fechner
+# Initial code from https://askubuntu.com/a/924668
+
+if [ "$IFACE" = "tun0" ]; then
+        sudo ifconfig tun0 mtu 1200
+fi
