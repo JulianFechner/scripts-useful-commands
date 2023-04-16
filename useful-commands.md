@@ -17,6 +17,14 @@
       - of currently connected WiFi network
   - loop through array and execute command on elements inside
     - `for i in "${array[@]}"; do <command> "$i"; done`
+  - fix for HTB OVPN problems
+    - create a file `sudo vim /etc/network/if-up.d/tun0-mtu`
+      - ```#!/bin/sh
+
+if [ "$IFACE" = "tun0" ]; then
+    sudo ifconfig tun mtu 1200
+fi
+        ```
 
 ## Windows
 
