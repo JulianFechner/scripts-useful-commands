@@ -24,7 +24,7 @@
 if [ "$IFACE" = "tun0" ]; then
     sudo ifconfig tun mtu 1200
 fi
-        ```
+    ```
 
 ## Windows
 
