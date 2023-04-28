@@ -33,6 +33,16 @@
       - create for Python2
     - `source /path/to/venv/bin/activate`
       - activate
+- Git
+  - most used
+    - `git add . && git commit -m "Meaningful commit message" && git push`
+      - add pwd, commit, and push to remote repo
+- VirtualBox
+  - shared folders
+    - `VBoxManage sharedfolder add "kali-linux-1" --name share --hostpath /home/jf/Documents/share/ --automount --transient`
+      - add shared folder
+    - `VBoxManage sharedfolder remove "kali-linux-1" --name share --transient`
+      - remove shared folder
 
 ## Windows
 
